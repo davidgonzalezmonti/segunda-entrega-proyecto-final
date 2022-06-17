@@ -69,8 +69,6 @@
     background-size: cover;
     height: auto;
     width: auto;
-    overflow: hidden;
-    background-image: url(../imagenesProyectoFinal/collageOjosDos-min.jpg);
 }
 
 .main h1 {
