@@ -183,9 +183,8 @@
     text-shadow: 1px 0px 20px #000000;
 }
 
-.ol,
-ul {
-    padding-left: 0rem;
+.estilos-servicios ul{
+    padding-left: 0rem
 }
 
 .estilos-servicios {
